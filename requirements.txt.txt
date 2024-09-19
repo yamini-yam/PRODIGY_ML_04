@@ -1,0 +1,7 @@
+argparse
+csv
+itertools
+collections
+opencv-python
+numpy
+mediapipe
